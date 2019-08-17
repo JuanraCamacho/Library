@@ -1,0 +1,8 @@
+C:\Users\Carlos\source\repos\CIDFares.Library\CIDFares.Library.Controls\bin\Debug\CIDFares.Library.Controls.dll
+C:\Users\Carlos\source\repos\CIDFares.Library\CIDFares.Library.Controls\bin\Debug\CIDFares.Library.Controls.pdb
+C:\Users\Carlos\source\repos\CIDFares.Library\CIDFares.Library.Controls\obj\Debug\CIDFares.Library.Controls.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\CIDFares.Library\CIDFares.Library.Controls\obj\Debug\CIDFares.Library.Controls.Properties.Resources.resources
+C:\Users\Carlos\source\repos\CIDFares.Library\CIDFares.Library.Controls\obj\Debug\CIDFares.Library.Controls.csproj.GenerateResource.cache
+C:\Users\Carlos\source\repos\CIDFares.Library\CIDFares.Library.Controls\obj\Debug\CIDFares.Library.Controls.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\CIDFares.Library\CIDFares.Library.Controls\obj\Debug\CIDFares.Library.Controls.dll
+C:\Users\Carlos\source\repos\CIDFares.Library\CIDFares.Library.Controls\obj\Debug\CIDFares.Library.Controls.pdb
